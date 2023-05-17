@@ -1,7 +1,6 @@
 # People
 
 ## UCLouvain
-![UCLouvain](/docs/assets/logo_UCLouvain_format_jpg_RVB.jpg)
 <img src="https://resist-impuls.github.io/docs/assets/logo_UCLouvain_format_jpg_RVB.jpg" height=50% width=50%>
 (Université catholique de Louvain, Belgium)
 
