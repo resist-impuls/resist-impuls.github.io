@@ -1,6 +1,6 @@
 # People
 
-<img src="https://resist-impuls.github.io/docs/assets/logo_UCLouvain_format_jpg_RVB.jpg" height=30% width=30%>
+<img src="https://resist-impuls.github.io/docs/assets/logo_UCLouvain_format_jpg_RVB.jpg">
 (Université catholique de Louvain, Belgium)
 
 [**François Massonnet**](https://www.elic.ucl.ac.be/modx/index.php?id=73): RESIST Coordinator and PI
