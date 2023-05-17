@@ -1,6 +1,6 @@
 # Work Packages
 
-The RESIST project is structured in 5 scientific Work Packages (WP 1-5) and 3 additional management / dissemination Work Packages (WP 6-8). Below is a diagram with these WPs, the connection between them and the tools used in each scientific WP. The goals and main tools of each scientific WP is provided below this diagram.
+The RESIST project is structured in 5 scientific Work Packages (WP 1-5) and 3 additional management / dissemination Work Packages (WP 6-8). Below is a diagram with these WPs, the connection between them and the tools used in each scientific WP. The goals and main tools of each scientific WP are provided below this diagram.
 
 ![RESIST Work Packages](/docs/assets/Work_Packages.png)
 
