@@ -5,7 +5,7 @@
 
 [**François Massonnet**](https://www.elic.ucl.ac.be/modx/index.php?id=73): RESIST Coordinator and PI
 
-
+-----
 
 <img src="https://resist-impuls.github.io/docs/assets/logo_rmicolor.png" height="5%" width="5%">
 (Royal Meteorological Institute, Belgium)
