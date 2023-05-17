@@ -7,7 +7,7 @@ The RESIST project is structured in 5 scientific Work Packages (WP 1-5) and 3 ad
 ## WP1: Local drivers of observed sea ice lows
 **Goal:** estimate the pysical processes affecting the sea ice concentration tendencies prior and during a sea ice low.
 
-**Tool:** [NEMO-SI$^{3}$](https://www.nemo-ocean.eu/framework/components/engines/) ocean-sea ice general circulation model run at different horizontal resolutions (1°, 1/4°, 1/12°).
+**Tool:** [NEMO-SI<sup>3</sup>](https://www.nemo-ocean.eu/framework/components/engines/) ocean-sea ice general circulation model run at different horizontal resolutions (1°, 1/4°, 1/12°).
 
 ## WP2: Large-scale drivers of observed sea ice lows
 **Goal:** discriminate the fraction of the summer sea ice anomalies that are due to preconditioning (initial conditions) vs. external drivers of sea ice variability (winds and SST).
