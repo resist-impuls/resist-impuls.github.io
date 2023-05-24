@@ -1,4 +1,6 @@
-# General context
+# Research
+
+## General context
 
 Polar regions have experienced significant and disruptive changes in recent decades, partly due to the accumulation of greenhouse gases in the atmosphere. These changes include rising Arctic air temperatures surpassing the global average, reduced terrestrial snow cover, negative ice mass balance in Greenland and Antarctica, and increased heat transport to the Arctic Ocean. Antarctica, previously considered immune to climate change, is now showing signs of warming even in remote areas like the South Pole.
 
@@ -8,7 +10,7 @@ The impacts of sea ice retreats on terrestrial ecosystems in the Arctic and Anta
 
 Modeling studies suggest that rapid Arctic sea ice loss events will cause significant land warming and permafrost degradation. However, there is a lack of specific studies on the atmospheric response to sea ice lows in the Antarctic.
 
-# Research objectives
+## Research objectives
 
 The overarching aim of RESIST is to document, qualitatively and quantitatively, the cause-effect relationships between summer sea ice lows in both polar regions and their potential interacting agents (drivers and impacts). 
 
@@ -23,7 +25,7 @@ To achieve this overarching aim, four specific research objectives have been def
 (O4): Robustly sample the set of climate states that are compatible with sea ice lows.
 
 
-# Scientific novelty and positioning of the project
+## Scientific novelty and positioning of the project
 
 Sea ice lows and their impacts are inherently difficult to study, because there is only a limited number of such events in the observational record, but also because the causes explaining these lows are, like many climate extremes, multi-factorial. A quantitative understanding of the relative contributions of physical drivers on the recent but also future sea ice lows requires (1) state-of-the-art modeling tools capturing the range of sea ice-ocean-atmosphere interactions on all scales and (2) robust statistics to place the events in their climate context. The emergence of new modeling tools (coupled General Circulation and Earth System Models34, eddy-resolving global ocean—sea ice models35, large ensembles36,37), of new types of model experiments (e.g., dynamical nudging38, dynamical ensemble sub-selection39), and of data analysis approaches (e.g., causal inference frameworks40,41) is profoundly reshaping our ability to analyze and interpret climate extremes.
 RESIST ambitions to apply these latest state-of-the art techniques to shed new light on the mechanisms that control exceptional melt rates of sea ice at the seasonal time scale, and how these mechanisms might differ from one hemisphere to the other. Such an intercomparison has never been attempted before.
