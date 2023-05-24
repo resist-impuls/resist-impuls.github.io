@@ -14,7 +14,7 @@ favicon: assets/img/nn_icon.png                            # Icon displayed in t
 
 # Header and footer text
 header_text: RESIST: Recent Arctic and Antarctic sea ice lows: same causes, same impacts?  # Change Blog header text
-header_feature_image: assets/img/header/seaice.jpeg
+header_feature_image: assets/img/header/seaice.png
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
