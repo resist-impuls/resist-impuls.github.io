@@ -13,7 +13,7 @@ avatar: assets/img/nn_icon.png                         # Empty for no avatar in 
 favicon: assets/img/nn_icon.png                            # Icon displayed in the tabs
 
 # Header and footer text
-header_text: RESIST: Recent Arctic and Antarctic sea ice lows: same causes, same impacts?  # Change Blog header text
+header_text: RESIST  # Change Blog header text
 header_feature_image: assets/img/header/seaice.png
 header_feature_image_responsive: true
 footer_text: >
