@@ -1,7 +1,14 @@
-- title: People
-  url: /people/
-  excerpt: "Great minds"
-  image: 
 
 - title: Research
   url: /research/
+
+- title: Implementation
+  url: /implementation/
+  
+- title: Publications
+  url: /publications/
+
+- title: People
+  url: /people/
+  excerpt: 
+  image: 
