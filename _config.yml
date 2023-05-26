@@ -9,11 +9,6 @@ url:
 feed:
   path: atom.xml
 
-# Header and footer text
-header_text:  # Change Blog header text
-header_feature_image: assets/img/header/seaice.png
-header_feature_image_responsive: true
-
 # Jekyll configuration
 
 sass:
