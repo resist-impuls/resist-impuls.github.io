@@ -2,8 +2,8 @@
 
 title: "RESIST"
 description: "Recent Arctic and Antarctic sea ice lows: same causes, same impacts?"
-logo: assets/img/logo.png # 120x120 px default image used for Twitter summary card
-teaser: assets/img/header/seaice.png # 400x250 px default teaser image used in image archive grid
+logo: images/logo.png # 120x120 px default image used for Twitter summary card
+teaser: images/seaice.png # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
 feed:
