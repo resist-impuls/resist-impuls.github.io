@@ -8,7 +8,7 @@
 
 -----
 
-<img src="https://resist-impuls.github.io/images/logo_rmicolor.png" height="5%" width="5%"> 
+<img src="https://resist-impuls.github.io/images/logo_rmicolor.png" height="4%" width="4%"> 
 
 [**Royal Meteorological Institute (Belgium)**](https://www.meteo.be/en), [**Dynamical Meteorology and Climatology Unit**](https://climdyn.meteo.be/)
 
