@@ -1,1 +1,1 @@
-Example poster from Jinfei Wang.
+Publications coming soon.
