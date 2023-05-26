@@ -2,7 +2,7 @@
 
 The RESIST project is structured in 5 scientific Work Packages (WP 1-5) and 3 additional management / dissemination Work Packages (WP 6-8). Below is a diagram with these WPs and the connection between them. The goals and main tools of each scientific WP are provided below this diagram.
 
-![RESIST Work Packages](/docs/assets/Work_Packages.png)
+<img src = "/images/Work_Packages.png" width = "60%" height = "60%">
 
 ## WP1: Local drivers of observed sea ice lows
 **Goal:** estimate the pysical processes affecting the sea ice concentration tendencies prior and during a sea ice low.
