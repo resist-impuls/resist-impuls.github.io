@@ -14,7 +14,7 @@ Modeling studies suggest that rapid Arctic sea ice loss events will cause signif
 
 The overarching aim of RESIST is to **document, qualitatively and quantitatively, the cause-effect relationships between summer sea ice lows in both polar regions and their potential interacting agents (drivers and impacts)**. Sea ice lows are defined as events during which the September (February) Arctic (Antarctic) sea ice extent departs significantly from the long-term trend *and* presents a significant change compared to the previous year. The years 2007 and 2012 for the Arctic, and 2017 and 2022 for the Antarctic, correspond to such a definition.
 
-<img src = "/images/figContext.png" width = "60%" height = "60%">
+<img src = "/images/figContext.png" width = "40%" height = "40%">
 
 
 To achieve this overarching aim, **four specific research objectives** have been defined:
