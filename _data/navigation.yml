@@ -1,6 +1,7 @@
-# Site navigation links
+- title: People
+  url: /people/
+  excerpt: "Great minds"
+  image: 
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Research
+  url: /research/
