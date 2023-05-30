@@ -1,5 +1,7 @@
 # People
 
+<img src="images/GroupPhoto20230530.jpg" height = "50%" width = "50%">
+* The RESIST consortium at the kick-off meeting in Louvain-la-Neuve, May 30 2023 *
 <img src="https://resist-impuls.github.io/images/logo_UCLouvain_format_jpg_RVB.jpg" height="20%" width="20%"> 
 
 [**Université catholique de Louvain (Belgium)**](https://uclouvain.be/en/index.html), [**Earth and Life Institute**](https://uclouvain.be/en/research-institutes/eli), [**Earth and Climate Research Center**](https://uclouvain.be/en/research-institutes/eli/elic)
