@@ -1,6 +1,6 @@
 # People
 
-<img src="/images/GroupPhoto20230530.jpg" height = "80%" width = "80%">
+<img src="/images/GroupPhoto20230530.jpg" height = "60%" width = "60%">
 
 _The RESIST consortium at the kick-off meeting in Louvain-la-Neuve, May 30 2023_
 
