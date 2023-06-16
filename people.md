@@ -14,6 +14,8 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 
 **Annelies Sticker**: PhD candidate at UCLouvain. She works on Arctic rapid ice loss events using CMIP6 simulations.
 
+**Cécile Osy**: PhD student at UCLouvain. She works on the impact of sea ice loss on permafrost.
+
 **Daniel Topal**: Postdoc at UCLouvain working primarily on polar ice-ocean interactions using NEMO4.2-SI3 model with a focus on model resolution.
 
 **Feba Francis**: Postdoc researcher at UCLouvain. She works on the impact of wind circulation changes on Antarctic sea ice using nudging experiments in general circulation models.
