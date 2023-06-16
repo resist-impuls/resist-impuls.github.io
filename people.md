@@ -32,7 +32,7 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 
 [**Steve Delhaye**](https://uclouvain.be/en/directories/steve.delhaye): PhD canditate at UCLouvain. He works on the short-term climate response due to a sudden Arctic sea ice loss.
 
-[**Thierry Fichefet**]: Full Professor at UCLouvain. His main research area is modelling climate-cryosphere interactions, with a focus on sea ice. He is the father of the Louvain-la-Neuve sea Ice Model (LIM), which forms the core of the NEMO Sea Ice modelling Integrated Initiative (SI3).
+[**Thierry Fichefet**](https://www.elic.ucl.ac.be/modx/index.php?id=49): Full Professor at UCLouvain. His main research area is modelling climate-cryosphere interactions, with a focus on sea ice. He is the father of the Louvain-la-Neuve sea Ice Model (LIM), which forms the core of the NEMO Sea Ice modelling Integrated Initiative (SI3).
 
 -----
 
