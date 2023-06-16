@@ -10,7 +10,27 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 
 [**Université catholique de Louvain (Belgium)**](https://uclouvain.be/en/index.html), [**Earth and Life Institute**](https://uclouvain.be/en/research-institutes/eli), [**Earth and Climate Research Center**](https://uclouvain.be/en/research-institutes/eli/elic)
 
-[**François Massonnet**](https://www.elic.ucl.ac.be/modx/index.php?id=73): RESIST Coordinator and PI
+[**François Massonnet**](https://www.elic.ucl.ac.be/modx/index.php?id=73): RESIST Coordinator and PI.
+
+**Annelies Sticker**: PhD candidate at UCLouvain. She works on Arctic rapid ice loss events using CMIP6 simulations.
+
+**Daniel Topal**: Postdoc at UCLouvain working primarily on polar ice-ocean interactions using NEMO4.2-SI3 model with a focus on model resolution.
+
+**Feba Francis**: Postdoc researcher at UCLouvain. She works on the impact of wind circulation changes on Antarctic sea ice using nudging experiments in general circulation models.
+
+[**Hugues Goosse**](https://www.elic.ucl.ac.be/modx/index.php?id=78): Research Director at F.R.S/FNRS and Professor at UCLouvain. He works on climate variability on internannual to centennial timescale, combining model results and observations.
+
+**Jerome Sauer**: PhD candidate at UClouvain. He works on extremes of summer Arctic sea ice reduction using a rare event algorithm applied to coupled climate model ensemble simulations.
+
+**Jinfei Wang**: PhD student at UCLouvain. She works on causes of Antarctic sea ice extremes with satellite observations and model simulations.
+
+[**Sophie Opfergelt**](https://uclouvain.be/en/directories/sophie.opfergelt): FNRS Research Fellow at UCLouvain. She works on the response of permafrost environments to climate change, and the consequences for element mobility in these polar ecosystems, using isotope geochemistry, soil sciences and cryospheric sciences.
+
+**Stephy Libera**: PhD student at UCLouvain. She works on causes of Antarctic sea ice extremes with satellite observations and model simulations.
+
+[**Steve Delhaye**](https://uclouvain.be/en/directories/steve.delhaye): PhD canditate at UCLouvain. He works on the short-term climate response due to a sudden Arctic sea ice loss.
+
+[**Thierry Fichefet**]: Full Professor at UCLouvain. His main research area is modelling climate-cryosphere interactions, with a focus on sea ice. He is the father of the Louvain-la-Neuve sea Ice Model (LIM), which forms the core of the NEMO Sea Ice modelling Integrated Initiative (SI3).
 
 -----
 
@@ -18,4 +38,10 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 
 [**Royal Meteorological Institute (Belgium)**](https://www.meteo.be/en), [**Dynamical Meteorology and Climatology Unit**](https://climdyn.meteo.be/)
 
-[**David Docquier**](https://sites.google.com/view/daviddocquier): Postdoc researcher and RESIST PI at RMI. He works on ocean - sea ice - atmosphere interactions using causal methods applied to global climate models and satellite observations.
+[**David Docquier**](https://climdyn.meteo.be/team/david-docquier): Postdoc researcher and RESIST PI at RMI. He works on ocean - sea ice - atmosphere interactions using causal methods applied to global climate models and satellite observations.
+
+[**Jonathan Demaeyer**](https://climdyn.meteo.be/team/jonathan-demaeyer):
+
+[**Francesco Ragone**](https://climdyn.meteo.be/team/francesco-ragone): Assistant professor at UCLouvain and senior researcher at RMI. His research interests focus on the application to climate science of techniques from statistical physics, dynamical systems theory and data science.
+
+[**Stéphane Vannitsem**](https://climdyn.meteo.be/team/stephane-vannitsem): Head of the Dynamical Meteorology and Climatology unit at RMI.
