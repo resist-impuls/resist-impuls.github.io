@@ -42,8 +42,8 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 
 [**David Docquier**](https://climdyn.meteo.be/team/david-docquier): Postdoc researcher and RESIST PI at RMI. He works on ocean - sea ice - atmosphere interactions using causal methods applied to global climate models and satellite observations.
 
-[**Jonathan Demaeyer**](https://climdyn.meteo.be/team/jonathan-demaeyer):
+[**Jonathan Demaeyer**](https://climdyn.meteo.be/team/jonathan-demaeyer): Researcher at RMI. His research interests include weather forecasting, low-order climate modeling and bifurcation analysis in climate models.
 
 [**Francesco Ragone**](https://climdyn.meteo.be/team/francesco-ragone): Assistant professor at UCLouvain and senior researcher at RMI. His research interests focus on the application to climate science of techniques from statistical physics, dynamical systems theory and data science.
 
-[**Stéphane Vannitsem**](https://climdyn.meteo.be/team/stephane-vannitsem): Head of the Dynamical Meteorology and Climatology unit at RMI.
+[**Stéphane Vannitsem**](https://climdyn.meteo.be/team/stephane-vannitsem): Head of the Dynamical Meteorology and Climatology unit at RMI. His research interests include variability and predictability of the atmosphere at different time scales, ranging from short daily forecasts to seasonal and decadal predictions.
