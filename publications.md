@@ -5,4 +5,4 @@ Coming soon.
 
 ## Outreach publications
 
-* Docquier, D. (2023). An exceptional year: What's up with Antarctic sea ice? (_EGU Cryosphere Blog_)[https://blogs.egu.eu/divisions/cr/2023/11/17/an-exceptional-year-whats-up-with-antarctic-sea-ice/]
+- Docquier, D. (2023). An exceptional year: What's up with Antarctic sea ice? [https://blogs.egu.eu/divisions/cr/2023/11/17/an-exceptional-year-whats-up-with-antarctic-sea-ice/](_EGU Cryosphere Blog_)
