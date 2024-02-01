@@ -12,7 +12,13 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 
 [**François Massonnet**](https://www.elic.ucl.ac.be/modx/index.php?id=73): RESIST Coordinator and PI. He works on sea ice prediction and predictability on seasonal to climate change time scales. He is also interested in aspects of climate model evaluation and forecast verification in polar regions.
 
+[**Alisson Delhasse**](https://uclouvain.be/en/directories/alison.delhasse)
+
 [**Annelies Sticker**](https://uclouvain.be/en/directories/annelies.sticker): PhD candidate at UCLouvain. She works on Arctic rapid ice loss events using CMIP6 simulations.
+
+[**Benjamin Richaud**]
+
+[**Bianca Mezzina**](https://uclouvain.be/en/directories/bianca.mezzina)
 
 [**Cécile Osy**](https://uclouvain.be/en/directories/cecile.osy): PhD student at UCLouvain. She works on the impact of sea ice loss on permafrost.
 
@@ -26,11 +32,11 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 
 **Jinfei Wang**: PhD student at UCLouvain. She works on causes of Antarctic sea ice extremes with satellite observations and model simulations.
 
+[**Patricia DeRepentigny**](https://uclouvain.be/en/directories/patricia.derepentigny)
+
 [**Sophie Opfergelt**](https://uclouvain.be/en/directories/sophie.opfergelt): FNRS Research Fellow at UCLouvain. She works on the response of permafrost environments to climate change, and the consequences for element mobility in these polar ecosystems, using isotope geochemistry, soil sciences and cryospheric sciences.
 
 [**Stephy Libera**](https://uclouvain.be/en/directories/stephy.libera): PhD student at UCLouvain. She works on causes of Antarctic sea ice extremes with satellite observations and model simulations.
-
-[**Steve Delhaye**](https://uclouvain.be/en/directories/steve.delhaye): PhD canditate at UCLouvain. He works on the short-term climate response due to a sudden Arctic sea ice loss.
 
 [**Thierry Fichefet**](https://www.elic.ucl.ac.be/modx/index.php?id=49): Full Professor at UCLouvain. His main research area is modelling climate-cryosphere interactions, with a focus on sea ice. He is the father of the Louvain-la-Neuve sea Ice Model (LIM), which forms the core of the NEMO Sea Ice modelling Integrated Initiative (SI3).
 
