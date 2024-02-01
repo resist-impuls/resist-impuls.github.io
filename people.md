@@ -16,7 +16,7 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 
 [**Annelies Sticker**](https://uclouvain.be/en/directories/annelies.sticker): PhD candidate at UCLouvain. She works on Arctic rapid ice loss events using CMIP6 simulations.
 
-[**Benjamin Richaud**]
+**Benjamin Richaud**
 
 [**Bianca Mezzina**](https://uclouvain.be/en/directories/bianca.mezzina)
 
