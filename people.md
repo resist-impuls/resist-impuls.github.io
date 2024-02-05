@@ -18,7 +18,7 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 
 **Benjamin Richaud**
 
-[**Bianca Mezzina**](https://uclouvain.be/en/directories/bianca.mezzina)
+[**Bianca Mezzina**](https://uclouvain.be/en/directories/bianca.mezzina): FNRS postdoctoral fellow at UCLouvain. She is currently interested in investigating the potential drivers of surface climate and sea ice variability in Antarctica, with a special focus on the stratosphere.
 
 [**Cécile Osy**](https://uclouvain.be/en/directories/cecile.osy): PhD student at UCLouvain. She works on the impact of sea ice loss on permafrost.
 
