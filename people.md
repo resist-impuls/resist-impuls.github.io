@@ -12,7 +12,7 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 
 [**François Massonnet**](https://www.elic.ucl.ac.be/modx/index.php?id=73): RESIST Coordinator and PI. He works on sea ice prediction and predictability on seasonal to climate change time scales. He is also interested in aspects of climate model evaluation and forecast verification in polar regions.
 
-[**Alison Delhasse**](https://uclouvain.be/en/directories/alison.delhasse)
+[**Alison Delhasse**](https://uclouvain.be/en/directories/alison.delhasse): Postdoc researcher at UCLouvain. She works on ocean and sea ice data assimilation in the NEMO ocean model to enhance the representation of sea ice states, with the goal of developing a forecasting tool on a multi-seasonal scale to prevent rapid sea ice melt events.
 
 [**Annelies Sticker**](https://uclouvain.be/en/directories/annelies.sticker): PhD candidate at UCLouvain. She works on Arctic rapid ice loss events using CMIP6 simulations.
 
