@@ -32,7 +32,7 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 
 **Jinfei Wang**: PhD student at UCLouvain. She works on causes of Antarctic sea ice extremes with satellite observations and model simulations.
 
-[**Patricia DeRepentigny**](https://uclouvain.be/en/directories/patricia.derepentigny)
+[**Patricia DeRepentigny**](https://uclouvain.be/en/directories/patricia.derepentigny): Postdoctoral researcher at UCLouvain. She works on climate projections of Arctic sea ice with the goal of improving our understanding of the multiple drivers of sea ice retreat on seasonal to century time scales.
 
 [**Sophie Opfergelt**](https://uclouvain.be/en/directories/sophie.opfergelt): FNRS Research Fellow at UCLouvain. She works on the response of permafrost environments to climate change, and the consequences for element mobility in these polar ecosystems, using isotope geochemistry, soil sciences and cryospheric sciences.
 
