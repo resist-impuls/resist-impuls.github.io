@@ -10,6 +10,8 @@ RESIST (Recent Arctic and Antarctic sea ice lows: same causes, same impacts?) is
 
 <img src="/images/BELSPO_logo.jpg" height="10%" width="10%"> 
 
+<img src="/images/RESIST_Logo06022023_1.png" height="10%" width="10%"> 
+
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
