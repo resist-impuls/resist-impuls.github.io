@@ -28,3 +28,6 @@ The RESIST project is structured in 5 scientific Work Packages (WP 1-5) and 3 ad
 **Goal:** assess the regional response of the atmosphere to sea ice lows in observations and climate models.
 
 **Tool:** observations and climate models (EC-Earth3, large ensembles, CMIP6).
+
+
+<img src="/images/RESIST_Logo06022023_1.png" height="25%" width="25%">
