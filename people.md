@@ -53,3 +53,6 @@ _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba F
 [**Francesco Ragone**](https://climdyn.meteo.be/team/francesco-ragone): Assistant professor at UCLouvain and senior researcher at RMI. His research interests focus on the application to climate science of techniques from statistical physics, dynamical systems theory and data science.
 
 [**Stéphane Vannitsem**](https://climdyn.meteo.be/team/stephane-vannitsem): Head of the Dynamical Meteorology and Climatology unit at RMI. His research interests include variability and predictability of the atmosphere at different time scales, ranging from short daily forecasts to seasonal and decadal predictions.
+
+
+<img src="/images/RESIST_Logo06022023_1.png" height="25%" width="25%">
