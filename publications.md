@@ -6,7 +6,7 @@
 
 ## Outreach publications
 
-- Docquier, D., B. Mezzina (2024). You thought it was over? Here’s more on the 2023 Antarctic sea-ice extent record low [ EGU Cryosphere Blog ](https://blogs.egu.eu/divisions/cr/2024/04/26/you-thought-it-was-over-heres-more-on-the-2023-antarctic-sea-ice-extent-record-low/)
+- Docquier, D., B. Mezzina (2024). You thought it was over? Here’s more on the 2023 Antarctic sea-ice extent record low. [ EGU Cryosphere Blog ](https://blogs.egu.eu/divisions/cr/2024/04/26/you-thought-it-was-over-heres-more-on-the-2023-antarctic-sea-ice-extent-record-low/)
 - Docquier, D. (2023). An exceptional year: What's up with Antarctic sea ice? [_EGU Cryosphere Blog_](https://blogs.egu.eu/divisions/cr/2023/11/17/an-exceptional-year-whats-up-with-antarctic-sea-ice/)
 
 
