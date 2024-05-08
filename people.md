@@ -1,6 +1,6 @@
 # People
 
-<img src="/images/GroupPhoto_20240507.jpg" height = "80%" width = "80%">
+<img src="/images/GroupPhoto20240507.jpg" height = "80%" width = "80%">
 
 _The RESIST consortium at the first annual meting in Brussels, May 7 2024_
 
