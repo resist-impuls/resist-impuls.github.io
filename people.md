@@ -1,10 +1,10 @@
 # People
 
-<img src="/images/GroupPhoto20230530.jpg" height = "60%" width = "60%">
+<img src="/images/GroupPhoto_20240507.jpg" height = "80%" width = "80%">
 
-_The RESIST consortium at the kick-off meeting in Louvain-la-Neuve, May 30 2023_
+_The RESIST consortium at the first annual meting in Brussels, May 7 2024_
 
-_From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba Francis, Annelies Sticker, Cécile Osy, Steve Delhaye, Jerome Sauer, Sophie Opfergelt, Thierry Fichefet, Hugues Goosse, Daniel Topal, François Massonnet, David Docquier, Francesco Ragone, Stephy Libera_
+<!-- _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba Francis, Annelies Sticker, Cécile Osy, Steve Delhaye, Jerome Sauer, Sophie Opfergelt, Thierry Fichefet, Hugues Goosse, Daniel Topal, François Massonnet, David Docquier, Francesco Ragone, Stephy Libera_-->
 
 <img src="https://resist-impuls.github.io/images/logo_UCLouvain_format_jpg_RVB.jpg" height="20%" width="20%"> 
 
