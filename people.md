@@ -2,7 +2,7 @@
 
 <img src="/images/GroupPhoto20240507.jpg" height = "50%" width = "50%">
 
-_The RESIST consortium at the first annual meting in Brussels, May 7 2024_
+_The RESIST consortium at the first annual meeting in Brussels (Royal Meteorological Institute), May 7 2024_
 
 <!-- _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba Francis, Annelies Sticker, Cécile Osy, Steve Delhaye, Jerome Sauer, Sophie Opfergelt, Thierry Fichefet, Hugues Goosse, Daniel Topal, François Massonnet, David Docquier, Francesco Ragone, Stephy Libera_-->
 
