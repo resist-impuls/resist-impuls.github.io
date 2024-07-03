@@ -36,7 +36,7 @@ _The RESIST consortium at the first annual meeting in Brussels (Royal Meteorolog
 
 [**Sophie Opfergelt**](https://uclouvain.be/en/directories/sophie.opfergelt): FNRS Research Fellow at UCLouvain. She works on the response of permafrost environments to climate change, and the consequences for element mobility in these polar ecosystems, using isotope geochemistry, soil sciences and cryospheric sciences.
 
-[**Stephy Libera**](https://uclouvain.be/en/directories/stephy.libera): PhD student at UCLouvain. She works on causes of Antarctic sea ice extremes with satellite observations and model simulations.
+[**Stephy Libera**](https://uclouvain.be/en/directories/stephy.libera): Postdoc researcher at UCLouvain. She works on ocean mesoscale processes and their interaction with sea ice and atmosphere.
 
 [**Thierry Fichefet**](https://www.elic.ucl.ac.be/modx/index.php?id=49): Full Professor at UCLouvain. His main research area is modelling climate-cryosphere interactions, with a focus on sea ice. He is the father of the Louvain-la-Neuve sea Ice Model (LIM), which forms the core of the NEMO Sea Ice modelling Integrated Initiative (SI3).
 
