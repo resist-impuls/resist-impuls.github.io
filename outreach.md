@@ -16,4 +16,4 @@
 
 **27 June 2023: Participation to the "Nuit des Idées: A la recherche des pôles et des océans"**, an event that gathered polar researchers from France and Belgium.
 
-<img src="/images/NuitDesIdees.jpg" height="25%" width="25%">
+<img src="/images/NuitDesIdees.JPG" height="25%" width="25%">
