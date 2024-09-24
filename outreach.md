@@ -11,3 +11,9 @@
 <iframe width="1020" height="630" src="https://www.youtube.com/embed/SHdekEKIMAk?si=dHMrcxdrEk0PopKp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="1020" height="630" src="https://www.youtube.com/embed/HuxnXQTMr7w?si=CJxhI5Vrn_9hZ3yh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Citizen activities
+
+**27 June 2023: Participation to the "Nuit des Idées: A la recherche des pôles et des océans"**, an event that gathered polar researchers from France and Belgium.
+
+<img src="/images/NuitDesIdees.jpg" height="25%" width="25%">
