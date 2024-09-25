@@ -19,7 +19,7 @@ Sophie Opfergelt, Cécile Osy, Benjamin Richaud and David Docquier taking active
 
 <img src="/images/RPAM3816.JPG" height="25%" width="15%">
 <img src="/images/IMG_2090.jpg" height="25%" width="15%">
-<img src="/images/IMG_2095.jpg" height="25%" width="22%">
+<img src="/images/IMG_2095.jpg" height="25%" width="15%">
 <img src="/images/IMG_2107.jpg" height="25%" width="15%">
 
 
