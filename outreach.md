@@ -16,6 +16,7 @@
 
 **9-12 September 2024: Geologica Belgica Conference (Liège)**
 Sophie Opfergelt, Cécile Osy, Benjamin Richaud and David Docquier taking active part to the conference
+
 <img src="/images/RPAM3816.JPG" height="25%" width="25%">
 <img src="/images/IMG_2090.jpg" height="25%" width="25%">
 <img src="/images/IMG_2095.jpg" height="25%" width="25%">
