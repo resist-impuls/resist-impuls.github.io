@@ -1,11 +1,11 @@
-<img src="/images/RESIST_Logo06022023_1.png" height="25%" width="25%">
-
-
 ## Visualization materials
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pM82Mr38n_g?si=_BVodim4dxpWaces" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yoog6Oyq4Hk?si=4OLLtaAsUJodTMOy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<img src="/images/RESIST_Logo06022023_1.png" height="25%" width="25%">
 
 
 ## Blog articles
