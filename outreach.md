@@ -1,9 +1,3 @@
-## Blog articles
-
-- Docquier, D., B. Mezzina (2024). You thought it was over? Here’s more on the 2023 Antarctic sea-ice extent record low. [_EGU Cryosphere Blog_](https://blogs.egu.eu/divisions/cr/2024/04/26/you-thought-it-was-over-heres-more-on-the-2023-antarctic-sea-ice-extent-record-low/)
-- Docquier, D. (2023). An exceptional year: What's up with Antarctic sea ice? [_EGU Cryosphere Blog_](https://blogs.egu.eu/divisions/cr/2023/11/17/an-exceptional-year-whats-up-with-antarctic-sea-ice/)
-
-
 <img src="/images/RESIST_Logo06022023_1.png" height="25%" width="25%">
 
 
@@ -12,6 +6,12 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pM82Mr38n_g?si=_BVodim4dxpWaces" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yoog6Oyq4Hk?si=4OLLtaAsUJodTMOy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Blog articles
+
+- Docquier, D., B. Mezzina (2024). You thought it was over? Here’s more on the 2023 Antarctic sea-ice extent record low. [_EGU Cryosphere Blog_](https://blogs.egu.eu/divisions/cr/2024/04/26/you-thought-it-was-over-heres-more-on-the-2023-antarctic-sea-ice-extent-record-low/)
+- Docquier, D. (2023). An exceptional year: What's up with Antarctic sea ice? [_EGU Cryosphere Blog_](https://blogs.egu.eu/divisions/cr/2023/11/17/an-exceptional-year-whats-up-with-antarctic-sea-ice/)
 
 
 ## RESIST in conferences
