@@ -6,6 +6,7 @@ One of the major achievements of the RESIST project is the execution of a high-r
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yoog6Oyq4Hk?si=4OLLtaAsUJodTMOy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fVR63z4kGeA?si=cBBNMLUTmtp3ENy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img src="/images/RESIST_Logo06022023_1.png" height="25%" width="25%">
 
