@@ -38,7 +38,9 @@ One of the major achievements of the RESIST project is the execution of a high-r
 
 ## Citizen activities
 
-**9 September 2024
+**5 December 2024: François Massonnet invited to the Egmont Institute (Brussels)** to give a presentation on the theme of "The Arctic: Belgium's role in shaping its future ([link](https://www.egmontinstitute.be/events/the-arctic-belgiums-role-in-shaping-its-future/)).
+
+**9 September 2024: Participation to the WiseNight Event** (Natural Science Museum, Brussels), [link to the event](https://www.naturalsciences.be/fr/musee/actualites/wisenight-a-l-institut-des-sciences-naturelles-).
 
 **27 June 2023: Participation to the "Nuit des Idées: A la recherche des pôles et des océans"**, an event that gathered polar researchers from France and Belgium.
 
