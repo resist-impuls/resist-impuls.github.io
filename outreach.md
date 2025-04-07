@@ -25,6 +25,9 @@ Dani Topál gave a seminar at [RMI](https://www.meteo.be/fr/recherche/agenda-des
 **20 November 2024: AntClimNow seminar by D. Docquier**
 David Docquier gave an online seminar in the context of [AntClimNow](https://scar.org/science/research-programmes/antclimnow) on "Drivers of summer Antarctic sea-ice extent in CMIP6 large ensembles revealed by information flow".
 
+**5 November 2024: WGSIP annual meeting (F. Massonnet)**
+François Massonnet gave a talk about "Rapid sea ice changes: causes and consequences" at the Working Group on Subseasonal to Interdecadal Prediction ([WGISP](https://www.wcrp-esmo.org/calendar/wgne39-wgsip25-annual-meetings)) annual meeting.
+
 **9-12 September 2024: Geologica Belgica Conference (Liège)**
 Sophie Opfergelt, Cécile Osy, Benjamin Richaud and David Docquier taking active part to the conference
 
