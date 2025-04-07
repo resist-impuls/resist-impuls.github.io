@@ -15,9 +15,9 @@ One of the major achievements of the RESIST project is the execution of a high-r
 
 **6 December 2024:** Scheel, M., D. Docquier, L. Madaj (2024). Happy birthday to the Cryoblog! EGU Cryosphere Blog, [_EGU Cryosphere Blog_](https://blogs.egu.eu/divisions/cr/2024/12/06/happy-birthday-to-the-cryoblog/).
 
-**26 April 2024:** Docquier, D., B. Mezzina (2024). You thought it was over? Here’s more on the 2023 Antarctic sea-ice extent record low. [_EGU Cryosphere Blog_](https://blogs.egu.eu/divisions/cr/2024/04/26/you-thought-it-was-over-heres-more-on-the-2023-antarctic-sea-ice-extent-record-low/)
+**26 April 2024:** Docquier, D., B. Mezzina (2024). You thought it was over? Here’s more on the 2023 Antarctic sea-ice extent record low. [_EGU Cryosphere Blog_](https://blogs.egu.eu/divisions/cr/2024/04/26/you-thought-it-was-over-heres-more-on-the-2023-antarctic-sea-ice-extent-record-low/).
 
-**17 November 2023:** Docquier, D. (2023). An exceptional year: What's up with Antarctic sea ice? [_EGU Cryosphere Blog_](https://blogs.egu.eu/divisions/cr/2023/11/17/an-exceptional-year-whats-up-with-antarctic-sea-ice/)
+**17 November 2023:** Docquier, D. (2023). An exceptional year: What's up with Antarctic sea ice? [_EGU Cryosphere Blog_](https://blogs.egu.eu/divisions/cr/2023/11/17/an-exceptional-year-whats-up-with-antarctic-sea-ice/).
 
 
 ## RESIST in conferences
