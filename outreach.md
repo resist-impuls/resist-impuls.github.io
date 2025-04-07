@@ -25,7 +25,7 @@ One of the major achievements of the RESIST project is the execution of a high-r
 
 **5 November 2024: WGSIP annual meeting (Meteo France, Toulouse)**, François Massonnet gave a talk about "Rapid sea ice changes: causes and consequences" at the Working Group on Subseasonal to Interdecadal Prediction ([WGISP](https://www.wcrp-esmo.org/calendar/wgne39-wgsip25-annual-meetings)) annual meeting.
 
-**9-12 September 2024: [Geologica Belgica Meeting](https://www.geologicabelgica2024.uliege.be/cms/c_18498639/en/geologica-belgica-2024?id=c_18498639) (Liège)**, Sophie Opfergelt, Cécile Osy, Benjamin Richaud and David Docquier taking active part to the conference
+**11-13 September 2024: [Geologica Belgica Meeting](https://www.geologicabelgica2024.uliege.be/cms/c_18498639/en/geologica-belgica-2024?id=c_18498639) (Liège)**, Sophie Opfergelt, Cécile Osy, Benjamin Richaud and David Docquier taking active part to the conference
 
 <img src="/images/RPAM3816.JPG" height="25%" width="15%">
 <img src="/images/IMG_2090.jpg" height="25%" width="15%">
