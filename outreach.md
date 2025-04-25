@@ -21,8 +21,13 @@ One of the major achievements of the RESIST project is the execution of a high-r
 
 
 ## RESIST in conferences
+**14 April 2025, GRICE** UCLouvain, Louvain-la-Neuve, Aspects systémiques de la crise écologique, conference by P.Y. Longaretti (U. Grenoble) & S. Opfergelt (UCLouvain)
+
+**12-13 February 2025: Invited Keynote of S. Opfergelt**, The Geological Society, London, UK, The Changing Arctic Critical Zone: tracing the influence of permafrost thaw
 
 **5 December 2024: Seminar of Dani Topál at RMI (Brussels)** on "Winter atmospheric circulation changes hint at future Antarctic sea ice loss" (see [RMI website](https://www.meteo.be/fr/recherche/agenda-des-conferences)).
+
+**18-20 November 2024: Invited Seminar of S. Opfergelt**, University of Bern, Switzerland, The Changing Arctic Critical Zone: tracing the influence of permafrost thaw
 
 **20 November 2024: AntClimNow online seminar by David Docquier** in the context of [AntClimNow](https://scar.org/science/research-programmes/antclimnow) on "Drivers of summer Antarctic sea-ice extent in CMIP6 large ensembles revealed by information flow".
 
