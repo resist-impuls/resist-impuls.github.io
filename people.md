@@ -1,10 +1,10 @@
 # People
 
-<img src="/images/GroupPhoto20240507.jpg" height = "50%" width = "50%">
+<img src="/images/AnnualMeeting2025_IMG_0289.JPG" height = "50%" width = "50%">
 
-_The RESIST consortium at the first annual meeting in Brussels (Royal Meteorological Institute), May 7 2024_
+_The RESIST consortium at the second annual meeting in UCLouvain (Louvain-la-Neuve), April 25th, 2025_
 
-<!-- _From left to right: Stéphane Vannitsem, Jonathan Demaeyer, Jinfei Wang, Feba Francis, Annelies Sticker, Cécile Osy, Steve Delhaye, Jerome Sauer, Sophie Opfergelt, Thierry Fichefet, Hugues Goosse, Daniel Topal, François Massonnet, David Docquier, Francesco Ragone, Stephy Libera_-->
+
 
 <img src="https://resist-impuls.github.io/images/logo_UCLouvain_format_jpg_RVB.jpg" height="20%" width="20%"> 
 
