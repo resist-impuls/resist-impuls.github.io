@@ -1,12 +1,14 @@
 ## Visualization materials
 
-One of the major achievements of the RESIST project is the execution of a high-resolution (1/12°; ~5–10 km) numerical simulation of the coupled ocean–sea ice system's evolution. The two animations below showcase a 10-year excerpt from this simulation (1995-2004), performed using the ocean–sea ice model [NEMO4.2-SI3](https://www.nemo-ocean.eu/) and forced by ERA5 atmospheric reanalysis data. Throughout the simulation, features such as mesoscale eddies, oceanic fronts, and interactions with sea ice in the marginal ice zone are clearly visible. Investigating how variability arising from small-scale processes impacts larger-scale dynamics and contributes to sea ice lows is one of the core research questions of the RESIST project.
+One of the major achievements of the RESIST project is the execution of a high-resolution (1/12°; ~5–10 km) numerical simulation of the coupled ocean–sea ice system's evolution. The animations below showcase the differences from these simulations, performed using the ocean–sea ice model [NEMO4.2-SI3](https://www.nemo-ocean.eu/) and forced by ERA5 atmospheric reanalysis data. Throughout the simulation, features such as mesoscale eddies, oceanic fronts, and interactions with sea ice in the marginal ice zone are clearly visible. Investigating how variability arising from small-scale processes impacts larger-scale dynamics and contributes to sea ice lows is one of the core research questions of the RESIST project.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pM82Mr38n_g?si=_BVodim4dxpWaces" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yoog6Oyq4Hk?si=4OLLtaAsUJodTMOy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fVR63z4kGeA?si=cBBNMLUTmtp3ENy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KzclkrvJzSE?si=GS65l8irDoAuD2WJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img src="/images/RESIST_Logo06022023_1.png" height="25%" width="25%">
 
