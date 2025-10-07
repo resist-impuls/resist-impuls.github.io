@@ -10,35 +10,35 @@ _The RESIST consortium at the second annual meeting in UCLouvain (Louvain-la-Neu
 
 [**Université catholique de Louvain (Belgium)**](https://uclouvain.be/en/index.html), [**Earth and Life Institute**](https://uclouvain.be/en/research-institutes/eli), [**Earth and Climate Research Center**](https://www.uclouvain.be/en/research-institutes/eli/earth-and-climate-elic)
 
-[**François Massonnet**](https://www.elic.ucl.ac.be/modx/index.php?id=73): RESIST Coordinator and PI. He works on sea ice prediction and predictability on seasonal to climate change time scales. He is also interested in aspects of climate model evaluation and forecast verification in polar regions.
+[**François Massonnet**](https://www.elic.ucl.ac.be/index.php?id=73): RESIST Coordinator and PI. He works on sea ice prediction and predictability on seasonal to climate change time scales. He is also interested in aspects of climate model evaluation and forecast verification in polar regions.
 
-[**Alison Delhasse**](https://uclouvain.be/en/directories/alison.delhasse): Postdoc researcher at UCLouvain. She works on ocean and sea ice data assimilation in the NEMO ocean model to enhance the representation of sea ice states, with the goal of developing a forecasting tool on a multi-seasonal scale to prevent rapid sea ice melt events.
+**Alison Delhasse**: Postdoc researcher at UCLouvain. She works on ocean and sea ice data assimilation in the NEMO ocean model to enhance the representation of sea ice states, with the goal of developing a forecasting tool on a multi-seasonal scale to prevent rapid sea ice melt events.
 
-[**Annelies Sticker**](https://uclouvain.be/en/directories/annelies.sticker): PhD candidate at UCLouvain. She works on Arctic rapid ice loss events using CMIP6 simulations.
+**Annelies Sticker**: PhD candidate at UCLouvain. She works on Arctic rapid ice loss events using CMIP6 simulations.
 
-[**Benjamin Richaud**](https://uclouvain.be/en/directories/benjamin.richaud): Postdoc researcher at UCLouvain. He is currently interested in the recent sea ice lows in both polar regions, investigating their drivers using an ice-ocean numerical model.
+**Benjamin Richaud**: Postdoc researcher at UCLouvain. He is currently interested in the recent sea ice lows in both polar regions, investigating their drivers using an ice-ocean numerical model.
 
-[**Bianca Mezzina**](https://uclouvain.be/en/directories/bianca.mezzina): FNRS postdoctoral fellow at UCLouvain. She is currently interested in investigating the potential drivers of surface climate and sea ice variability in Antarctica, with a special focus on the stratosphere.
+**Bianca Mezzina**: FNRS postdoctoral fellow at UCLouvain. She is currently interested in investigating the potential drivers of surface climate and sea ice variability in Antarctica, with a special focus on the stratosphere.
 
-[**Cécile Osy**](https://uclouvain.be/en/directories/cecile.osy): PhD student at UCLouvain. She works on the impact of sea ice loss on permafrost.
+**Cécile Osy**: PhD student at UCLouvain. She works on the impact of sea ice loss on permafrost.
 
-[**Daniel Topal**](https://uclouvain.be/en/directories/daniel.topal): Postdoc at UCLouvain working primarily on polar ice-ocean interactions using NEMO4.2-SI3 model with a focus on model resolution.
+**Daniel Topal**: Postdoc at UCLouvain working primarily on polar ice-ocean interactions using NEMO4.2-SI3 model with a focus on model resolution.
 
-[**Feba Francis**](https://www.researchgate.net/profile/Feba-Francis): Postdoc researcher at UCLouvain. She works on the impact of wind circulation changes on Antarctic sea ice using nudging experiments in general circulation models.
+**Feba Francis**: Postdoc researcher at UCLouvain. She works on the impact of wind circulation changes on Antarctic sea ice using nudging experiments in general circulation models.
 
-[**Hugues Goosse**](https://www.elic.ucl.ac.be/modx/index.php?id=78): Research Director at F.R.S/FNRS and Professor at UCLouvain. He works on climate variability on internannual to centennial timescale, combining model results and observations.
+[**Hugues Goosse**](https://www.elic.ucl.ac.be/index.php?id=78): Research Director at F.R.S/FNRS and Professor at UCLouvain. He works on climate variability on internannual to centennial timescale, combining model results and observations.
 
-[**Jerome Sauer**](https://uclouvain.be/en/directories/jerome.sauer): PhD candidate at UClouvain. He works on extremes of summer Arctic sea ice reduction using a rare event algorithm applied to coupled climate model ensemble simulations.
+**Jerome Sauer**: PhD candidate at UClouvain. He works on extremes of summer Arctic sea ice reduction using a rare event algorithm applied to coupled climate model ensemble simulations.
 
 **Jinfei Wang**: PhD student at UCLouvain. She works on causes of Antarctic sea ice extremes with satellite observations and model simulations.
 
-[**Patricia DeRepentigny**](https://uclouvain.be/en/directories/patricia.derepentigny): Postdoctoral researcher at UCLouvain. She works on climate projections of Arctic sea ice with the goal of improving our understanding of the multiple drivers of sea ice retreat on seasonal to century time scales.
+**Patricia DeRepentigny**: Postdoctoral researcher at UCLouvain. She works on climate projections of Arctic sea ice with the goal of improving our understanding of the multiple drivers of sea ice retreat on seasonal to century time scales.
 
-[**Sophie Opfergelt**](https://uclouvain.be/en/directories/sophie.opfergelt): FNRS Research Fellow at UCLouvain. She works on the response of permafrost environments to climate change, and the consequences for element mobility in these polar ecosystems, using isotope geochemistry, soil sciences and cryospheric sciences.
+[**Sophie Opfergelt**](https://www.uclouvain.be/fr/people/sophie.opfergelt): FNRS Research Fellow at UCLouvain. She works on the response of permafrost environments to climate change, and the consequences for element mobility in these polar ecosystems, using isotope geochemistry, soil sciences and cryospheric sciences.
 
-[**Stephy Libera**](https://uclouvain.be/en/directories/stephy.libera): Postdoc researcher at UCLouvain. She works on ocean mesoscale processes and their interaction with sea ice and atmosphere.
+**Stephy Libera**: Postdoc researcher at UCLouvain. She works on ocean mesoscale processes and their interaction with sea ice and atmosphere.
 
-[**Thierry Fichefet**](https://www.elic.ucl.ac.be/modx/index.php?id=49): Full Professor at UCLouvain. His main research area is modelling climate-cryosphere interactions, with a focus on sea ice. He is the father of the Louvain-la-Neuve sea Ice Model (LIM), which forms the core of the NEMO Sea Ice modelling Integrated Initiative (SI3).
+[**Thierry Fichefet**](https://www.elic.ucl.ac.be/index.php?id=49): Full Professor at UCLouvain. His main research area is modelling climate-cryosphere interactions, with a focus on sea ice. He is the father of the Louvain-la-Neuve sea Ice Model (LIM), which forms the core of the NEMO Sea Ice modelling Integrated Initiative (SI3).
 
 -----
 
