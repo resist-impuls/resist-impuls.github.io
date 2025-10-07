@@ -28,7 +28,11 @@ One of the major achievements of the RESIST project is the execution of a high-r
 
 **11 September 2025: BE-Polar Conference**, Usquare.brussels, Brussels, conference co-organized by RESIST (F. Massonnet and D. Docquier), APECS Belgium (M. Cavitte, L. Delhaye and C. Leseurre) and IPF (M. Sterken), targetting Belgian polar scientists.
 
+<img src="/images/Be-Polar_Group.jpeg" height="25%" width="15%">
+The BE-Polar attendees
 
+<img src="/images/BE-Polar_Organising_Team.jpg" height="25%" width="15%">
+The BE-Polar organizing committee
 
 [More pictures](https://www.apecsbelgium.com/portfolio/be-polar-conference-2024).
 
