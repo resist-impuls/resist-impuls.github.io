@@ -25,6 +25,9 @@ One of the major achievements of the RESIST project is the execution of a high-r
 
 
 ## RESIST in conferences
+
+**11 September 2025: BE-Polar Conference**, Usquare.brussels, Brussels, conference co-organized by RESIST (F. Massonnet and D. Docquier), APECS Belgium (M. Cavitte, L. Delhaye and C. Leseurre) and IPF (M. Sterken), targetting Belgian polar scientists.
+
 **14 April 2025, GRICE** UCLouvain, Louvain-la-Neuve, Aspects systémiques de la crise écologique, conference by P.Y. Longaretti (U. Grenoble) & S. Opfergelt (UCLouvain)
 
 **12-13 February 2025: Invited Keynote of S. Opfergelt**, The Geological Society, London, UK, The Changing Arctic Critical Zone: tracing the influence of permafrost thaw
