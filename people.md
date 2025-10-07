@@ -8,7 +8,7 @@ _The RESIST consortium at the second annual meeting in UCLouvain (Louvain-la-Neu
 
 <img src="https://resist-impuls.github.io/images/logo_UCLouvain_format_jpg_RVB.jpg" height="20%" width="20%"> 
 
-[**Université catholique de Louvain (Belgium)**](https://uclouvain.be/en/index.html), [**Earth and Life Institute**](https://uclouvain.be/en/research-institutes/eli), [**Earth and Climate Research Center**](https://uclouvain.be/en/research-institutes/eli/elic)
+[**Université catholique de Louvain (Belgium)**](https://uclouvain.be/en/index.html), [**Earth and Life Institute**](https://uclouvain.be/en/research-institutes/eli), [**Earth and Climate Research Center**](https://www.uclouvain.be/en/research-institutes/eli/earth-and-climate-elic)
 
 [**François Massonnet**](https://www.elic.ucl.ac.be/modx/index.php?id=73): RESIST Coordinator and PI. He works on sea ice prediction and predictability on seasonal to climate change time scales. He is also interested in aspects of climate model evaluation and forecast verification in polar regions.
 
