@@ -31,6 +31,7 @@ One of the major achievements of the RESIST project is the execution of a high-r
 
 
 [More pictures](https://www.apecsbelgium.com/portfolio/be-polar-conference-2024).
+
 [Related blog post](https://www.apecsbelgium.com/post/be-polar-conference-2025).
 
 **14 April 2025, GRICE** UCLouvain, Louvain-la-Neuve, Aspects systémiques de la crise écologique, conference by P.Y. Longaretti (U. Grenoble) & S. Opfergelt (UCLouvain)
