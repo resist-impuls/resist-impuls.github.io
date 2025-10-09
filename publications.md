@@ -3,7 +3,7 @@
 ### 2025
 
 - Docquier, D., F. Massonnet, B. Richaud, T. Fichefet, H. Goosse, B. Mezzina, D. Topál, S. Vannitsem (2025). Drivers of summer Antarctic sea-ice extent at interannual time scale in CMIP6 large ensembles based on information flow. _Climate Dynamics_, [https://doi.org/10.1007/s00382-025-07878-3](https://doi.org/10.1007/s00382-025-07878-3).
-- Sauer, J., F. Ragone, F. Massonnet, G. Zappa, G. (2025). Ensemble design for seasonal climate predictions: Studying extreme Arctic sea ice lows with a rare event algorithm, _The Cryosphere_, [https://doi.org/10.5194/egusphere-2024-3082](https://doi.org/10.5194/egusphere-2024-3082).
+- Sauer, J., F. Massonnet, G. Zappa, F. Ragone (2025). Ensemble design for seasonal climate predictions: studying extreme Arctic sea ice lows with a rare event algorithm, _Earth System Dynamics_, [https://doi.org/10.5194/esd-16-683-2025](https://doi.org/10.5194/esd-16-683-2025).
 - Sticker, A., F. Massonnet, T. Fichefet, P. DeRepentigny, A. Jahn, D. Docquier, C. Wyburn-Powell, D. Quint, E. Shivers, M. Ortiz (2025). Seasonality and scenario dependence of rapid Arctic sea ice loss events in CMIP6 simulations. _The Cryosphere_, [https://doi.org/10.5194/tc-19-3259-2025](https://doi.org/10.5194/tc-19-3259-2025). 
 - Vannitsem, S., D. Docquier, S. Wauthy, M. Corkill, J.-L. Tison (2025). Sources of low-frequency δ18O variability in coastal ice cores from Dronning Maud Land (Antarctica). _Climate Dynamics_, [https://doi.org/10.1007/s00382-024-07514-6](https://doi.org/10.1007/s00382-024-07514-6).
   
