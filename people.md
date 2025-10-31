@@ -34,6 +34,10 @@ _The RESIST consortium at the second annual meeting in UCLouvain (Louvain-la-Neu
 
 [**Thierry Fichefet**](https://www.elic.ucl.ac.be/index.php?id=49): Full Professor at UCLouvain. His main research area is modelling climate-cryosphere interactions, with a focus on sea ice. He is the father of the Louvain-la-Neuve sea Ice Model (LIM), which forms the core of the NEMO Sea Ice modelling Integrated Initiative (SI3).
 
+**Yuchun Gao**: PhD student at UCLouvain under the Chinese Scholarship Council (CSC). She works on the persistence of Antarctic sea ice observed and simulated by coupled models.
+
+**Xiaoran Dong**: PhD student at UCLouvain under the Chinese Scholarship Council (CSC) program. He works on the use of machine-learning techniques for seasonal forecasting of sea ice.
+
 -----
 
 <img src="https://resist-impuls.github.io/images/logo_rmicolor.png" height="4%" width="4%"> 
