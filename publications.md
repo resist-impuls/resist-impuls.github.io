@@ -1,7 +1,7 @@
 ## Peer-reviewed publications
 
 ### 2026
-- Richaud, B., Massonnet, F., Fichefet, T., Topál, D., Barthélemy, A., & Docquier, D. (2026, accepted). Anatomy of Arctic and Antarctic sea ice lows in an ocean&ndash;sea ice model. Accepted in _The Cryosphere_, [https://doi.org/10.5194/egusphere-2025-886](https://doi.org/10.5194/egusphere-2025-886).
+- Richaud, B., F. Massonnet, T. Fichefet, D. Topál, A. Barthélemy, D. Docquier (2026, accepted). Anatomy of Arctic and Antarctic sea ice lows in an ocean&ndash;sea ice model. Accepted in _The Cryosphere_, [https://doi.org/10.5194/egusphere-2025-886](https://doi.org/10.5194/egusphere-2025-886).
 
 ### 2025
 - Docquier, D., F. Massonnet, B. Richaud, T. Fichefet, H. Goosse, B. Mezzina, D. Topál, S. Vannitsem (2025). Drivers of summer Antarctic sea-ice extent at interannual time scale in CMIP6 large ensembles based on information flow. _Climate Dynamics_, [https://doi.org/10.1007/s00382-025-07878-3](https://doi.org/10.1007/s00382-025-07878-3).
