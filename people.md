@@ -18,9 +18,9 @@ _The RESIST consortium at the second annual meeting in UCLouvain (Louvain-la-Neu
 
 **Benjamin Richaud**: Postdoc researcher at UCLouvain. He is currently interested in the recent sea ice lows in both polar regions, investigating their drivers using an ice-ocean numerical model.
 
-**Cécile Osy**: PhD student at UCLouvain. She works on the impact of sea ice loss on permafrost.
-
 **Cécile Davrinche**: Postdoc at UCLouvain. She works on the role of eddies for Antarctic sea ice.
+
+**Cécile Osy**: PhD student at UCLouvain. She works on the impact of sea ice loss on permafrost.
 
 **Daniel Topal**: Postdoc at UCLouvain working primarily on polar ice-ocean interactions using NEMO4.2-SI3 model with a focus on model resolution.
 
