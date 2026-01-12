@@ -42,6 +42,10 @@ The BE-Polar organizing committee:
 
 [Related blog post](https://www.apecsbelgium.com/post/be-polar-conference-2025).
 
+**16-21 June 2025** Keynote talk by Opfergelt, S., Roux, P., du Bois d'Aische, E., Henrion, M., Osy, C., Thomas, M., and Villani, M.
+*Changing Arctic Critical Zone: Tracing Permafrost Thaw*, 3rd IAGC International Conference Water Rock Interaction-18 & Applied Isotope Geochemistry-15
+Cagliari, Italy
+
 **14 April 2025, GRICE** UCLouvain, Louvain-la-Neuve, Aspects systémiques de la crise écologique, conference by P.Y. Longaretti (U. Grenoble) & S. Opfergelt (UCLouvain)
 
 **12-13 February 2025: Invited Keynote of S. Opfergelt**, The Geological Society, London, UK, The Changing Arctic Critical Zone: tracing the influence of permafrost thaw
