@@ -4,6 +4,7 @@
 - Richaud, B., F. Massonnet, T. Fichefet, D. Topál, A. Barthélemy, D. Docquier (2026, accepted). Anatomy of Arctic and Antarctic sea ice lows in an ocean&ndash;sea ice model. Accepted in _The Cryosphere_, [https://doi.org/10.5194/egusphere-2025-886](https://doi.org/10.5194/egusphere-2025-886).
 
 ### 2025
+- Goosse, H., Libera, S., Naveira Garabato, A. C., Richaud, B., Silvano, A., & Vancoppenolle, M. (2025). Winter sea ice edge shaped by Antarctic Circumpolar Current pathways. The Cryosphere, 19(11), 5763–5779. https://doi.org/10.5194/tc-19-5763-2025
 - Docquier, D., F. Massonnet, B. Richaud, T. Fichefet, H. Goosse, B. Mezzina, D. Topál, S. Vannitsem (2025). Drivers of summer Antarctic sea-ice extent at interannual time scale in CMIP6 large ensembles based on information flow. _Climate Dynamics_, [https://doi.org/10.1007/s00382-025-07878-3](https://doi.org/10.1007/s00382-025-07878-3).
 - Sauer, J., F. Massonnet, G. Zappa, F. Ragone (2025). Ensemble design for seasonal climate predictions: studying extreme Arctic sea ice lows with a rare event algorithm, _Earth System Dynamics_, [https://doi.org/10.5194/esd-16-683-2025](https://doi.org/10.5194/esd-16-683-2025).
 - Sticker, A., F. Massonnet, T. Fichefet, P. DeRepentigny, A. Jahn, D. Docquier, C. Wyburn-Powell, D. Quint, E. Shivers, M. Ortiz (2025). Seasonality and scenario dependence of rapid Arctic sea ice loss events in CMIP6 simulations. _The Cryosphere_, [https://doi.org/10.5194/tc-19-3259-2025](https://doi.org/10.5194/tc-19-3259-2025). 
