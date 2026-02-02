@@ -1,7 +1,7 @@
 ## Peer-reviewed publications
 
 ### 2026
-- Richaud, B., F. Massonnet, T. Fichefet, D. Topál, A. Barthélemy, D. Docquier (2026, accepted). Anatomy of Arctic and Antarctic sea ice lows in an ocean&ndash;sea ice model. Accepted in _The Cryosphere_, [https://doi.org/10.5194/egusphere-2025-886](https://doi.org/10.5194/egusphere-2025-886).
+- Richaud, B., F. Massonnet, T. Fichefet, D. Topál, A. Barthélemy, D. Docquier (2026). Anatomy of Arctic and Antarctic sea ice lows in an ocean&ndash;sea ice model. _The Cryosphere_, [https://doi.org/10.5194/tc-20-791-2026](https://doi.org/10.5194/tc-20-791-2026).
 
 ### 2025
 - Goosse, H., Libera, S., Naveira Garabato, A. C., Richaud, B., Silvano, A., & Vancoppenolle, M. (2025). Winter sea ice edge shaped by Antarctic Circumpolar Current pathways. The Cryosphere, 19(11), 5763–5779. https://doi.org/10.5194/tc-19-5763-2025
