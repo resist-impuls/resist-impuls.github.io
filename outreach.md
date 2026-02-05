@@ -76,3 +76,7 @@ Cagliari, Italy
 
 <img src="/images/NuitDesIdees.JPG" height="25%" width="25%">
 
+
+## Data
+
+**Global sea ice and ocean fields simulated with the model NEMO 4.2.2 - SI3 in three configurations of increasing horizontal resolution:** Daily and monthly data from 1/12°, 1/4° and 1° NEMO global simulations used within the RESIST project are available at [https://doi.org/10.14428/DVN/JSDC8Q](https://doi.org/10.14428/DVN/JSDC8Q). The simulation length is 1979-2024 for 1° and 1/4°, and 1995-2024 for 1/12°. Available daily data are sea-ice concentration, sea-ice thickness and sea-surface temperature. Monthly data include sea-ice velocity (X and Y components) and mixed layer depth.
