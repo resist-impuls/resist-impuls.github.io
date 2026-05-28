@@ -48,9 +48,9 @@ _The RESIST consortium at the second annual meeting in UCLouvain (Louvain-la-Neu
 
 [**David Docquier**](https://climdyn.meteo.be/team/david-docquier): Postdoc researcher and RESIST PI at RMI. He works on ocean - sea ice - atmosphere interactions using causal methods applied to global climate models and satellite observations.
 
-[**Jonathan Demaeyer**](https://climdyn.meteo.be/team/jonathan-demaeyer): Researcher at RMI. His research interests include weather forecasting, low-order climate modeling and bifurcation analysis in climate models.
+[**Jonathan Demaeyer**](https://climdyn.meteo.be/team/jonathan-demaeyer): Head of the Dynamical Meteorology and Climatology unit at RMI. His research interests include weather forecasting, low-order climate modeling and bifurcation analysis in climate models.
 
-[**Stéphane Vannitsem**](https://climdyn.meteo.be/team/stephane-vannitsem): Head of the Dynamical Meteorology and Climatology unit at RMI. His research interests include variability and predictability of the atmosphere at different time scales, ranging from short daily forecasts to seasonal and decadal predictions.
+[**Stéphane Vannitsem**](https://climdyn.meteo.be/team/stephane-vannitsem): Professor at Nanyang Technological University (Singapore) and Consultant at RMI. His research interests include variability and predictability of the atmosphere at different time scales, ranging from short daily forecasts to seasonal and decadal predictions.
 
 
 <img src="/images/RESIST_Logo06022023_1.png" height="25%" width="25%">
