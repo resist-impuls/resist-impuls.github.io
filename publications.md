@@ -1,7 +1,9 @@
 ## Peer-reviewed publications
 
 ### 2026
+- Osy, C., S. Opfergelt, A. Druel, F. Massonnet (accepted). Evolution and drivers of the large-scale surface freeze-back onset in Siberian permafrost regions with the ERA5-Land reanalysis, _Glacies_.
 - Richaud, B., F. Massonnet, T. Fichefet, D. Topál, A. Barthélemy, D. Docquier (2026). Anatomy of Arctic and Antarctic sea ice lows in an ocean&ndash;sea ice model. _The Cryosphere_, [https://doi.org/10.5194/tc-20-791-2026](https://doi.org/10.5194/tc-20-791-2026).
+- Spira, T., Dufour, C. O., Frenger, I., Richaud, B., Bennett, M. G., Bitz, C. M., Bracegirdle, T. J., Castellani, G., Challet, F., Chidichimo, M. P., Cocetta, F., Diamond, R., Feba, F., Gülk, B., Guarino, M.-V., Gupta, M., Haumann, F. A., Heil, P., Hoffmann-Abdi, K., … Solomon, A. (2026). No longer polar opposites: The Arctic and the Antarctic are converging towards a seasonally dominated sea-ice regime. _Bulletin of the American Meteorological Society_, [https://doi.org/10.1175/BAMS-D-25-0340.1](https://doi.org/10.1175/BAMS-D-25-0340.1). 
 
 ### 2025
 - Goosse, H., S. Libera, A. C. Naveira Garabato, B. Richaud, A. Silvano, M. Vancoppenolle (2025). Winter sea ice edge shaped by Antarctic Circumpolar Current pathways. _The Cryosphere_, [https://doi.org/10.5194/tc-19-5763-2025](https://doi.org/10.5194/tc-19-5763-2025).
