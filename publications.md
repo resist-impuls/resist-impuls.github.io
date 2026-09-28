@@ -13,7 +13,7 @@
 
 ### Indirectly linked to RESIST (10):
 
-- Osy, C., S. Opfergelt, A. Druel, F. Massonnet (2026). Evolution and controls of the large-scale surface freeze-back onset in Siberian permafrost regions with the ERA5-Land reanalysis, _Glacies_, [doi.org/10.3390/glacies3040013](doi.org/10.3390/glacies3040013).
+- Osy, C., S. Opfergelt, A. Druel, F. Massonnet (2026). Evolution and controls of the large-scale surface freeze-back onset in Siberian permafrost regions with the ERA5-Land reanalysis, _Glacies_, [https://doi.org/10.3390/glacies3040013](https://doi.org/10.3390/glacies3040013).
 - Athanase, M., R. Gou, E. E. Köhn, B. Richaud, A. and Simon (2026). Polar processes set Arctic marine heatwaves apart. _Communications Earth & Environment_, [https://doi.org/10.1038/s43247-026-03735-1](https://doi.org/10.1038/s43247-026-03735-1).
 - Dong, X., F. Massonnet, Y. Nie, B. Richaud, Y. Gao, L. Hoffman, Y. Wang, Q. Yang (2026). Incorporating Subsurface Oceanic Variables Improves Seasonal Antarctic Sea Ice Prediction With Neural Networks. _Journal of Geophysical Research: Atmospheres_, [https://doi.org/10.1029/2025JD045470](https://doi.org/10.1029/2025JD045470).
 - Spira, T., Dufour, C. O., Frenger, I., Richaud, B., Bennett, M. G., Bitz, C. M., Bracegirdle, T. J., Castellani, G., Challet, F., Chidichimo, M. P., Cocetta, F., Diamond, R., Feba, F., Gülk, B., Guarino, M.-V., Gupta, M., Haumann, F. A., Heil, P., Hoffmann-Abdi, K., … Solomon, A. (2026). No longer polar opposites: The Arctic and the Antarctic are converging towards a seasonally dominated sea-ice regime. _Bulletin of the American Meteorological Society_, [https://doi.org/10.1175/BAMS-D-25-0340.1](https://doi.org/10.1175/BAMS-D-25-0340.1). 
