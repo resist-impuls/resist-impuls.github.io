@@ -1,3 +1,7 @@
+## Final project report
+You can find a summary of the project results in this report:
+Massonnet, F., D. Docquier, B. Richaud, J. Sauer, S. Opfergelt & RESIST Consortium (2026). RESIST: Recent Arctic and Antarctic sea ice lows: same causes, same impacts? Final Report (Version v2). Zenodo, [https://doi.org/10.5281/zenodo.23374856](https://doi.org/10.5281/zenodo.23374856).
+
 ## Peer-reviewed publications
 
 ### Directly linked to RESIST (8):
