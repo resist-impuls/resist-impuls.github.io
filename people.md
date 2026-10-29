@@ -1,6 +1,11 @@
 # People
 
-<img src="/images/AnnualMeeting2025_IMG_0289.JPG" height = "50%" width = "50%">
+<img src="/images/GroupMeeting20261002.jpg" height = "40%" width = "40%">
+
+_The RESIST consortium at the final meeting in Louvain-la-Neuve, October 2nd, 2026_
+
+
+<img src="/images/AnnualMeeting2025_IMG_0289.JPG" height = "40%" width = "40%">
 
 _The RESIST consortium at the second annual meeting in UCLouvain (Louvain-la-Neuve), April 25th, 2025_
 
